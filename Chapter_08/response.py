@@ -1,0 +1,25 @@
+# response.py
+
+print('Content-type:text/html\r\n\r\n')
+
+print('<!DOCTYPE html>')
+print('<html lang="en">')
+print('<head>')
+print('<meta charset="UTF-8">')
+print('<link href="./style/css" type="text/css" rel="stylesheet">')
+print('<title>Python Response</title>')
+print('</head>')
+print('<body style="background-color: azure;">')
+print('<main style="margin-top: 30px;">')
+print('<h1 style="text-align: center; font-size: 2.5em;">Hello from Python online! 🐍</h1>')
+print('<br>')
+print('<div style="text-align: center; margin-left: auto; margin-right: auto;">')
+print('<figure>')
+print('<img style="border: 5px solid black;" src="./images/Big_Mike.jpg" alt="Big Mike" width="320px">')
+print('<figcaption style="font-size: 1.5em;">Big Mike likes his Winter Traditions. ❄️</figcaption>')
+print('</figure>')
+print('</div>')
+print('</main>')
+print('</body>')
+print('</html>')
+
