@@ -1,0 +1,37 @@
+/* style.css */
+
+body {
+    font-size: 1.2em;
+    color: #000000;
+    font-family: sans-serif;
+    background-color: azure;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+a:hover {
+    color: #ff9900;
+    text-decoration: underline;
+}
+
+img{
+    border: 2px solid #888;
+}
+
+hr {
+    width: 700px;
+}
+
+.footer {
+    text-align: center;
+    FONT-SIZE: 1em;
+}
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
