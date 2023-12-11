@@ -1,0 +1,26 @@
+<!-- upload.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./style.css" type="text/css" rel="stylesheet">
+    <title>File Upload Example</title>
+</head>
+
+<body>
+    <main>
+        <h1>File Upload Example! 💾</h1>
+        <section>
+            <form method="POST" action="./upload.py" enctype="multipart/form-data">
+                <input type="file" name="filename" style="width:400px">
+                <br><br>
+                <input type="submit" value="Submit">
+            </form>
+        </section>
+    </main>
+</body>
+
+</html>
