@@ -1,2 +1,2 @@
-# Python_in_easy_steps
-Example programs from the book Python in easy steps.
+# Python in easy steps
+My versions of the example programs from the book Python in easy steps.
